@@ -66,7 +66,7 @@ Python, pandas, scikit-learn, SHAP, matplotlib, seaborn, Google Colab
 
 ## Author
 Harshitha Shankar | MSc Business Analytics, UCD Smurfit School of Business
-[LinkedIn](https://linkedin.com/in/harshithashankar14)
+[LinkedIn](https://www.linkedin.com/in/harshitha-shankar14/)
 
 
 
