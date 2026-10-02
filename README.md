@@ -6,7 +6,7 @@ which customers are likely to churn, explains why, and estimates the value
 of a targeted retention campaign.
 
 ## Data
-Telco Customer Churn dataset (7,043 customers, 21 features).
+[Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (7,043 customers, 21 features), not included in this repo. Download it from the link above to rerun the notebook.
 After cleaning (11 rows with missing TotalCharges removed): 7,032 customers.
 Overall churn rate: 26.6%.
 
